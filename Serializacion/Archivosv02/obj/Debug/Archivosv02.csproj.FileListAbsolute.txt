@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Serializacion\Archivosv02\bin\Debug\Archivosv02.exe
+C:\Users\alumno\Desktop\Serializacion\Archivosv02\bin\Debug\Archivosv02.pdb
+C:\Users\alumno\Desktop\Serializacion\Archivosv02\obj\Debug\Archivosv02.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Serializacion\Archivosv02\obj\Debug\Archivosv02.exe
+C:\Users\alumno\Desktop\Serializacion\Archivosv02\obj\Debug\Archivosv02.pdb
+C:\Users\federico\Desktop\Serializacion\Archivosv02\obj\Debug\Archivosv02.exe
