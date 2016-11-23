@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\federico\Google Drive\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\federico\Google Drive\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\federico\Google Drive\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
