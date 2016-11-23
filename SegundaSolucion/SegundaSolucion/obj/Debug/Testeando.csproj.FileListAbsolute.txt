@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\SegundaSolucion\SegundaSolucion\bin\Debug\SegundaSolucion.dll
+C:\Users\alumno\Desktop\SegundaSolucion\SegundaSolucion\bin\Debug\SegundaSolucion.pdb
+C:\Users\alumno\Desktop\SegundaSolucion\SegundaSolucion\obj\Debug\Testeando.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\SegundaSolucion\SegundaSolucion\obj\Debug\SegundaSolucion.dll
+C:\Users\alumno\Desktop\SegundaSolucion\SegundaSolucion\obj\Debug\SegundaSolucion.pdb
+D:\AAAMañana\SegundaSolucion\SegundaSolucion\bin\Debug\SegundaSolucion.dll
+D:\AAAMañana\SegundaSolucion\SegundaSolucion\bin\Debug\SegundaSolucion.pdb
+D:\AAAMañana\SegundaSolucion\SegundaSolucion\obj\Debug\Testeando.csprojResolveAssemblyReference.cache
+D:\AAAMañana\SegundaSolucion\SegundaSolucion\obj\Debug\SegundaSolucion.dll
+D:\AAAMañana\SegundaSolucion\SegundaSolucion\obj\Debug\SegundaSolucion.pdb
