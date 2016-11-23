@@ -1,0 +1,19 @@
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita.exe.config
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita.exe
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.Properties.Resources.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.exe
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita_sin_thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita_sin_thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.Form1.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita_con_thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita\bin\Debug\Pelotita_con_thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.Form2.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.Form3.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita\obj\Debug\Pelotita.Form4.resources
+C:\Users\federico\Desktop\New folder\Hilos\Pelotita\bin\Debug\Pelotita.exe.config
+C:\Users\federico\Desktop\New folder\Hilos\Pelotita\obj\Debug\Pelotita.exe
+C:\Users\federico\Desktop\New folder\Hilos\Pelotita\obj\Debug\Pelotita.pdb
