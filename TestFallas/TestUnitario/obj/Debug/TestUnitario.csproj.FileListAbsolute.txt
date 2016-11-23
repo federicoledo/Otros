@@ -1,0 +1,28 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\Test.dll
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\Test.pdb
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb
+D:\AAAMañana\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+D:\AAAMañana\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\AAAMañana\TestFallas\TestUnitario\bin\Debug\Test.dll
+D:\AAAMañana\TestFallas\TestUnitario\bin\Debug\Test.pdb
+D:\AAAMañana\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\AAAMañana\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+D:\AAAMañana\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\bin\Debug\Test.dll
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\bin\Debug\Test.pdb
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb

@@ -1,0 +1,20 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Test.pdb
+C:\Users\alumno\Desktop\TestFallas\Test\bin\Debug\Test.dll
+C:\Users\alumno\Desktop\TestFallas\Test\bin\Debug\Test.pdb
+C:\Users\alumno\Desktop\TestFallas\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\TestFallas\Test\obj\Debug\Test.dll
+C:\Users\alumno\Desktop\TestFallas\Test\obj\Debug\Test.pdb
+D:\AAAMañana\TestFallas\Test\bin\Debug\Test.dll
+D:\AAAMañana\TestFallas\Test\bin\Debug\Test.pdb
+D:\AAAMañana\TestFallas\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+D:\AAAMañana\TestFallas\Test\obj\Debug\Test.dll
+D:\AAAMañana\TestFallas\Test\obj\Debug\Test.pdb
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\Test\bin\Debug\Test.dll
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\Test\bin\Debug\Test.pdb
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\Test\obj\Debug\Test.dll
+C:\Users\federico\Google Drive\AAAMañana\TestFallas\Test\obj\Debug\Test.pdb
