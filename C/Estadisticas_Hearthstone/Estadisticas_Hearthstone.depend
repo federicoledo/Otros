@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1490582392 source:c:\users\feder\desktop\c\estadisticas_hearthstone\funciones.c
+
+1490582781 source:c:\users\feder\desktop\c\estadisticas_hearthstone\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490582536 c:\users\feder\desktop\c\estadisticas_hearthstone\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
